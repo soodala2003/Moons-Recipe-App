@@ -1,0 +1,24 @@
+/* Styles for the recipe detail page. */
+
+.recipe-detail {
+  padding: 20px;
+  text-align: center;
+}
+
+.recipe-detail img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.ingredients ul li {
+  list-style-type: none;
+}
+
+.instructions p {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+}
